@@ -1,0 +1,5 @@
+kata depan api betapa terjadi sepotong indonesia,<ID>KHNA-15</ID> <ID>KHNA-17</ID> <ID>RIAM-20</ID> <ID>KHNA-2</ID> <ID>KHNA-8</ID>
+orang yang pulang pergi secara tetap kereta api bunyi keras dari sesuatu yang jatuh,<ID>NESU-7</ID> <ID>SYFA-14</ID> <ID>NESU-4</ID> <ID>NESU-2</ID> <ID>NESU-17</ID>
+perselisihan sepotong suriah,<ID>SYFA-2</ID> <ID>ANDR-7</ID> <ID>ARID-10</ID> <ID>ARID-4</ID> <ID>ARID-6</ID>
+hawa asia pesawat terbang bunyi keras dari sesuatu yang jatuh,<ID>CIAU-12</ID> <ID>CIAU-17</ID> <ID>CIAU-16</ID> <ID>CIAU-8</ID> <ID>CIAU-6</ID>
+bulutangkis bertanding,<ID>RIAN-12</ID> <ID>RIAN-15</ID> <ID>RIAN-7</ID> <ID>RAHE-14</ID> <ID>RIAN-17</ID>

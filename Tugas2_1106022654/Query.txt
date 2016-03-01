@@ -1,0 +1,10 @@
+Presiden AND Indonesia
+Haji NOT Indonesia
+Facebook OR Twitter OR PATH
+Juara AND Indonesia
+Kecelakaan AND Indonesia NOT Haji
+Jokowi OR Indonesia
+Kecelakaan OR Kebakaran NOT Indonesia
+Mobil NOT Macet
+Wisata AND Indonesia
+Kuat AND Rupiah

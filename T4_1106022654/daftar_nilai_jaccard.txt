@@ -1,0 +1,300 @@
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>ESGY-11</ID>
+	0.991799077396207
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>ESGY-18</ID>
+	0.999487442337263
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>ESGY-2</ID>
+	0.997966446365023
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>KHNA-15</ID>
+	0.994407727503813
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>KHNA-2</ID>
+	0.99644128113879
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-14</ID>
+	0.997458057956279
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-15</ID>
+	0.995424504321301
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-1</ID>
+	0.99644128113879
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-4</ID>
+	0.994407727503813
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-6</ID>
+	0.997966446365023
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-10</ID>
+	0.994407727503813
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-12</ID>
+	0.997966446365023
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-18</ID>
+	0.995932892730046
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-20</ID>
+	0.994916115912557
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-9</ID>
+	0.99288256227758
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>ARID-15</ID>
+	0.999491611591256
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-11</ID>
+	0.999491611591256
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-13</ID>
+	0.99644128113879
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-16</ID>
+	0.994407727503813
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-5</ID>
+	0.997966446365023
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RAHE-14</ID>
+	0.989832231825114
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-12</ID>
+	0.992374173868836
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-2</ID>
+	0.993390950686324
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-5</ID>
+	0.993899339095069
+
+<Similarity antara Kueri Monolingual dan Mesin Penerjemah>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-7</ID>
+	0.978139298423996
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>ESGY-11</ID>
+	0.954253611556982
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>ESGY-18</ID>
+	0.999732477260567
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>ESGY-2</ID>
+	0.98876404494382
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>KHNA-15</ID>
+	0.974852862493312
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kebakaran yang terjadi di Indonesia</kueri>
+	<ID>KHNA-2</ID>
+	0.984216158373462
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-14</ID>
+	0.987693953986089
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-15</ID>
+	0.977795612627073
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-1</ID>
+	0.980470840021402
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-4</ID>
+	0.976725521669342
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan kereta komuter</kueri>
+	<ID>NESU-6</ID>
+	0.985821294810059
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-10</ID>
+	0.973782771535581
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-12</ID>
+	0.993579454253612
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-18</ID>
+	0.978063135366506
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-20</ID>
+	0.971375066880685
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Kecelakaan pesawat Air Asia</kueri>
+	<ID>CIAU-9</ID>
+	0.979668271803103
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>ARID-15</ID>
+	0.999732477260567
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-11</ID>
+	0.999732477260567
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-13</ID>
+	0.970572498662386
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-16</ID>
+	0.970840021401819
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Konflik di Suriah</kueri>
+	<ID>SYFA-5</ID>
+	0.980738362760835
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RAHE-14</ID>
+	0.972445157838416
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-12</ID>
+	0.978598180845372
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-2</ID>
+	0.97940074906367
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-5</ID>
+	0.982075976457999
+
+<Similarity antara Kueri Monolingual dan Kamus Bilingual>
+
+<kueri>Pertandingan bulutangkis</kueri>
+	<ID>RIAN-7</ID>
+	0.988228999464955
+

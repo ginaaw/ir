@@ -1,0 +1,5 @@
+Kebakaran yang terjadi di Indonesia,<ID>KHNA-15</ID> <ID>ESGY-18</ID> <ID>KHNA-2</ID> <ID>ESGY-11</ID> <ID>ESGY-8</ID>
+Kecelakaan kereta komuter,<ID>NESU-1</ID> <ID>NESU-6</ID> <ID>NESU-15</ID> <ID>NESU-14</ID> <ID>NESU-4</ID>
+Konflik di Suriah,<ID>SYFA-16</ID> <ID>SYFA-11</ID> <ID>SYFA-5</ID> <ID>ARID-15</ID> <ID>SYFA-13</ID>
+Kecelakaan pesawat Air Asia,<ID>CIAU-12</ID> <ID>CIAU-10</ID> <ID>CIAU-20</ID> <ID>CIAU-9</ID> <ID>CIAU-18</ID>
+Pertandingan bulutangkis,<ID>RIAN-2</ID> <ID>RAHE-14</ID> <ID>RIAN-5</ID> <ID>RIAN-7</ID> <ID>RIAN-12</ID>
